@@ -6,3 +6,6 @@ p {
     color:rgb(38, 102, 123);
     font-weight:600
 }
+div {
+    background-color:red;
+}
