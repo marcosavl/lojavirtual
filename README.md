@@ -3,4 +3,4 @@
 
 Texto alterado no repositório local. (1)
 
-loremoeeok
+Texto alterado via github web.
